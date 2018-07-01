@@ -1,4 +1,3 @@
-# intrvw_searchpartner
 Section 1
 	Name: Sikandar Shaikh
 	Years of Experience: 10 years 9 months
