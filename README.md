@@ -1,6 +1,6 @@
 Section 1
 	Name: Sikandar Shaikh
-	Years of Experience: 10 years 9 months
+	Years of Experience: 14 years
 
 Section 2: 
 	Build IDE: Eclipse Java EE IDE (Version: Juno Service Release 2)
